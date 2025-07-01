@@ -1,0 +1,5 @@
+scapy
+PyQt6
+PyQt6-Charts
+tensorflow
+keras

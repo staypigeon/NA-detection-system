@@ -1,0 +1,4448 @@
+[
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      58787,
+      443,
+      "TCP"
+    ],
+    "duration": 25.182,
+    "packet_count": 1098,
+    "byte_count": 1493144,
+    "avg_packet_size": 1359.88,
+    "avg_inter_arrival": 0.023,
+    "flags": {
+      "SYN": 0,
+      "ACK": 1098,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      58787,
+      "TCP"
+    ],
+    "duration": 25.148,
+    "packet_count": 462,
+    "byte_count": 63566,
+    "avg_packet_size": 137.59,
+    "avg_inter_arrival": 0.055,
+    "flags": {
+      "SYN": 0,
+      "ACK": 462,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "221.194.130.52",
+      "10.180.77.116",
+      443,
+      57239,
+      "TCP"
+    ],
+    "duration": 44.901,
+    "packet_count": 4,
+    "byte_count": 276,
+    "avg_packet_size": 69.0,
+    "avg_inter_arrival": 14.967,
+    "flags": {
+      "SYN": 0,
+      "ACK": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "221.194.130.52",
+      57239,
+      443,
+      "TCP"
+    ],
+    "duration": 44.942,
+    "packet_count": 6,
+    "byte_count": 380,
+    "avg_packet_size": 63.33,
+    "avg_inter_arrival": 8.988,
+    "flags": {
+      "SYN": 0,
+      "ACK": 6,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "111.47.131.147",
+      59504,
+      443,
+      "TCP"
+    ],
+    "duration": 0.062,
+    "packet_count": 2,
+    "byte_count": 108,
+    "avg_packet_size": 54.0,
+    "avg_inter_arrival": 0.062,
+    "flags": {
+      "SYN": 0,
+      "ACK": 2,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "111.47.131.147",
+      "10.180.77.116",
+      443,
+      59504,
+      "TCP"
+    ],
+    "duration": 0.0,
+    "packet_count": 1,
+    "byte_count": 60,
+    "avg_packet_size": 60.0,
+    "avg_inter_arrival": 0,
+    "flags": {
+      "SYN": 0,
+      "ACK": 1,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "111.47.131.147",
+      57372,
+      443,
+      "TCP"
+    ],
+    "duration": 14.41,
+    "packet_count": 3,
+    "byte_count": 210,
+    "avg_packet_size": 70.0,
+    "avg_inter_arrival": 7.205,
+    "flags": {
+      "SYN": 0,
+      "ACK": 3,
+      "FIN": 2
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      57752,
+      443,
+      "TCP"
+    ],
+    "duration": 10.191,
+    "packet_count": 3,
+    "byte_count": 211,
+    "avg_packet_size": 70.33,
+    "avg_inter_arrival": 5.096,
+    "flags": {
+      "SYN": 0,
+      "ACK": 3,
+      "FIN": 2
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "43.137.59.18",
+      49923,
+      8080,
+      "TCP"
+    ],
+    "duration": 56.399,
+    "packet_count": 13,
+    "byte_count": 1967,
+    "avg_packet_size": 151.31,
+    "avg_inter_arrival": 4.7,
+    "flags": {
+      "SYN": 0,
+      "ACK": 13,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "43.137.59.18",
+      "10.180.77.116",
+      8080,
+      49923,
+      "TCP"
+    ],
+    "duration": 56.284,
+    "packet_count": 11,
+    "byte_count": 2306,
+    "avg_packet_size": 209.64,
+    "avg_inter_arrival": 5.628,
+    "flags": {
+      "SYN": 0,
+      "ACK": 11,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "121.194.11.72",
+      57770,
+      443,
+      "TCP"
+    ],
+    "duration": 30.154,
+    "packet_count": 12,
+    "byte_count": 1303,
+    "avg_packet_size": 108.58,
+    "avg_inter_arrival": 2.741,
+    "flags": {
+      "SYN": 0,
+      "ACK": 12,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "121.194.11.72",
+      "10.180.77.116",
+      443,
+      57770,
+      "TCP"
+    ],
+    "duration": 30.152,
+    "packet_count": 16,
+    "byte_count": 4018,
+    "avg_packet_size": 251.12,
+    "avg_inter_arrival": 2.01,
+    "flags": {
+      "SYN": 0,
+      "ACK": 16,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60113,
+      443,
+      "TCP"
+    ],
+    "duration": 19.276,
+    "packet_count": 19,
+    "byte_count": 8239,
+    "avg_packet_size": 433.63,
+    "avg_inter_arrival": 1.071,
+    "flags": {
+      "SYN": 1,
+      "ACK": 18,
+      "FIN": 7
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60113,
+      "TCP"
+    ],
+    "duration": 0.104,
+    "packet_count": 10,
+    "byte_count": 1963,
+    "avg_packet_size": 196.3,
+    "avg_inter_arrival": 0.012,
+    "flags": {
+      "SYN": 1,
+      "ACK": 9,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "223.109.71.77",
+      55872,
+      443,
+      "TCP"
+    ],
+    "duration": 12.889,
+    "packet_count": 5,
+    "byte_count": 494,
+    "avg_packet_size": 98.8,
+    "avg_inter_arrival": 3.222,
+    "flags": {
+      "SYN": 0,
+      "ACK": 5,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "223.109.71.77",
+      "10.180.77.116",
+      443,
+      55872,
+      "TCP"
+    ],
+    "duration": 12.842,
+    "packet_count": 6,
+    "byte_count": 727,
+    "avg_packet_size": 121.17,
+    "avg_inter_arrival": 2.568,
+    "flags": {
+      "SYN": 0,
+      "ACK": 6,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "222.192.187.244",
+      55889,
+      443,
+      "TCP"
+    ],
+    "duration": 45.031,
+    "packet_count": 2,
+    "byte_count": 110,
+    "avg_packet_size": 55.0,
+    "avg_inter_arrival": 45.031,
+    "flags": {
+      "SYN": 0,
+      "ACK": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "222.192.187.244",
+      "10.180.77.116",
+      443,
+      55889,
+      "TCP"
+    ],
+    "duration": 45.032,
+    "packet_count": 2,
+    "byte_count": 132,
+    "avg_packet_size": 66.0,
+    "avg_inter_arrival": 45.032,
+    "flags": {
+      "SYN": 0,
+      "ACK": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "112.30.217.111",
+      54529,
+      443,
+      "TCP"
+    ],
+    "duration": 0.032,
+    "packet_count": 2,
+    "byte_count": 108,
+    "avg_packet_size": 54.0,
+    "avg_inter_arrival": 0.032,
+    "flags": {
+      "SYN": 0,
+      "ACK": 2,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "112.30.217.111",
+      "10.180.77.116",
+      443,
+      54529,
+      "TCP"
+    ],
+    "duration": 0.0,
+    "packet_count": 1,
+    "byte_count": 60,
+    "avg_packet_size": 60.0,
+    "avg_inter_arrival": 0,
+    "flags": {
+      "SYN": 0,
+      "ACK": 1,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60283,
+      443,
+      "TCP"
+    ],
+    "duration": 19.762,
+    "packet_count": 18,
+    "byte_count": 6775,
+    "avg_packet_size": 376.39,
+    "avg_inter_arrival": 1.162,
+    "flags": {
+      "SYN": 1,
+      "ACK": 17,
+      "FIN": 7
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60283,
+      "TCP"
+    ],
+    "duration": 0.116,
+    "packet_count": 10,
+    "byte_count": 1963,
+    "avg_packet_size": 196.3,
+    "avg_inter_arrival": 0.013,
+    "flags": {
+      "SYN": 1,
+      "ACK": 8,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "180.97.246.124",
+      59514,
+      443,
+      "TCP"
+    ],
+    "duration": 0.271,
+    "packet_count": 3,
+    "byte_count": 193,
+    "avg_packet_size": 64.33,
+    "avg_inter_arrival": 0.135,
+    "flags": {
+      "SYN": 0,
+      "ACK": 3,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "180.97.246.124",
+      "10.180.77.116",
+      443,
+      59514,
+      "TCP"
+    ],
+    "duration": 0.24,
+    "packet_count": 4,
+    "byte_count": 240,
+    "avg_packet_size": 60.0,
+    "avg_inter_arrival": 0.08,
+    "flags": {
+      "SYN": 0,
+      "ACK": 4,
+      "FIN": 2
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "106.225.243.236",
+      60407,
+      443,
+      "TCP"
+    ],
+    "duration": 0.465,
+    "packet_count": 9,
+    "byte_count": 1665,
+    "avg_packet_size": 185.0,
+    "avg_inter_arrival": 0.058,
+    "flags": {
+      "SYN": 1,
+      "ACK": 8,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "106.225.243.236",
+      "10.180.77.116",
+      443,
+      60407,
+      "TCP"
+    ],
+    "duration": 0.393,
+    "packet_count": 8,
+    "byte_count": 5882,
+    "avg_packet_size": 735.25,
+    "avg_inter_arrival": 0.056,
+    "flags": {
+      "SYN": 1,
+      "ACK": 8,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "122.248.50.184",
+      "10.180.77.116",
+      7826,
+      55179,
+      "TCP"
+    ],
+    "duration": 47.84,
+    "packet_count": 6,
+    "byte_count": 738,
+    "avg_packet_size": 123.0,
+    "avg_inter_arrival": 9.568,
+    "flags": {
+      "SYN": 0,
+      "ACK": 6,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "122.248.50.184",
+      55179,
+      7826,
+      "TCP"
+    ],
+    "duration": 47.893,
+    "packet_count": 9,
+    "byte_count": 900,
+    "avg_packet_size": 100.0,
+    "avg_inter_arrival": 5.987,
+    "flags": {
+      "SYN": 0,
+      "ACK": 9,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "112.90.95.59",
+      60462,
+      443,
+      "TCP"
+    ],
+    "duration": 16.137,
+    "packet_count": 147,
+    "byte_count": 148622,
+    "avg_packet_size": 1011.03,
+    "avg_inter_arrival": 0.111,
+    "flags": {
+      "SYN": 1,
+      "ACK": 146,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "112.90.95.59",
+      "10.180.77.116",
+      443,
+      60462,
+      "TCP"
+    ],
+    "duration": 16.09,
+    "packet_count": 153,
+    "byte_count": 60616,
+    "avg_packet_size": 396.18,
+    "avg_inter_arrival": 0.106,
+    "flags": {
+      "SYN": 1,
+      "ACK": 153,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60473,
+      443,
+      "TCP"
+    ],
+    "duration": 0.183,
+    "packet_count": 19,
+    "byte_count": 19573,
+    "avg_packet_size": 1030.16,
+    "avg_inter_arrival": 0.01,
+    "flags": {
+      "SYN": 1,
+      "ACK": 18,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60473,
+      "TCP"
+    ],
+    "duration": 0.182,
+    "packet_count": 15,
+    "byte_count": 2263,
+    "avg_packet_size": 150.87,
+    "avg_inter_arrival": 0.013,
+    "flags": {
+      "SYN": 1,
+      "ACK": 14,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60488,
+      443,
+      "TCP"
+    ],
+    "duration": 0.156,
+    "packet_count": 19,
+    "byte_count": 19335,
+    "avg_packet_size": 1017.63,
+    "avg_inter_arrival": 0.009,
+    "flags": {
+      "SYN": 1,
+      "ACK": 18,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60488,
+      "TCP"
+    ],
+    "duration": 0.15,
+    "packet_count": 16,
+    "byte_count": 2323,
+    "avg_packet_size": 145.19,
+    "avg_inter_arrival": 0.01,
+    "flags": {
+      "SYN": 1,
+      "ACK": 15,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "180.97.246.124",
+      60519,
+      443,
+      "TCP"
+    ],
+    "duration": 0.884,
+    "packet_count": 35,
+    "byte_count": 32830,
+    "avg_packet_size": 938.0,
+    "avg_inter_arrival": 0.026,
+    "flags": {
+      "SYN": 1,
+      "ACK": 34,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60522,
+      443,
+      "TCP"
+    ],
+    "duration": 10.229,
+    "packet_count": 412,
+    "byte_count": 554717,
+    "avg_packet_size": 1346.4,
+    "avg_inter_arrival": 0.025,
+    "flags": {
+      "SYN": 1,
+      "ACK": 411,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "180.97.246.124",
+      "10.180.77.116",
+      443,
+      60519,
+      "TCP"
+    ],
+    "duration": 0.869,
+    "packet_count": 32,
+    "byte_count": 9409,
+    "avg_packet_size": 294.03,
+    "avg_inter_arrival": 0.028,
+    "flags": {
+      "SYN": 1,
+      "ACK": 32,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60522,
+      "TCP"
+    ],
+    "duration": 10.21,
+    "packet_count": 216,
+    "byte_count": 25478,
+    "avg_packet_size": 117.95,
+    "avg_inter_arrival": 0.047,
+    "flags": {
+      "SYN": 1,
+      "ACK": 216,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60527,
+      443,
+      "TCP"
+    ],
+    "duration": 0.182,
+    "packet_count": 20,
+    "byte_count": 19220,
+    "avg_packet_size": 961.0,
+    "avg_inter_arrival": 0.01,
+    "flags": {
+      "SYN": 1,
+      "ACK": 19,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60527,
+      "TCP"
+    ],
+    "duration": 0.176,
+    "packet_count": 13,
+    "byte_count": 2143,
+    "avg_packet_size": 164.85,
+    "avg_inter_arrival": 0.015,
+    "flags": {
+      "SYN": 1,
+      "ACK": 12,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "180.97.246.124",
+      60538,
+      443,
+      "TCP"
+    ],
+    "duration": 0.727,
+    "packet_count": 30,
+    "byte_count": 32530,
+    "avg_packet_size": 1084.33,
+    "avg_inter_arrival": 0.025,
+    "flags": {
+      "SYN": 1,
+      "ACK": 29,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "180.97.246.124",
+      "10.180.77.116",
+      443,
+      60538,
+      "TCP"
+    ],
+    "duration": 0.714,
+    "packet_count": 27,
+    "byte_count": 8899,
+    "avg_packet_size": 329.59,
+    "avg_inter_arrival": 0.027,
+    "flags": {
+      "SYN": 1,
+      "ACK": 27,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "106.13.246.67",
+      "10.180.77.116",
+      7826,
+      58144,
+      "TCP"
+    ],
+    "duration": 44.923,
+    "packet_count": 6,
+    "byte_count": 735,
+    "avg_packet_size": 122.5,
+    "avg_inter_arrival": 8.985,
+    "flags": {
+      "SYN": 0,
+      "ACK": 6,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "106.13.246.67",
+      58144,
+      7826,
+      "TCP"
+    ],
+    "duration": 44.964,
+    "packet_count": 9,
+    "byte_count": 897,
+    "avg_packet_size": 99.67,
+    "avg_inter_arrival": 5.621,
+    "flags": {
+      "SYN": 0,
+      "ACK": 9,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60583,
+      443,
+      "TCP"
+    ],
+    "duration": 0.328,
+    "packet_count": 21,
+    "byte_count": 18928,
+    "avg_packet_size": 901.33,
+    "avg_inter_arrival": 0.016,
+    "flags": {
+      "SYN": 1,
+      "ACK": 20,
+      "FIN": 2
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.253.247.52",
+      60586,
+      443,
+      "TCP"
+    ],
+    "duration": 1.043,
+    "packet_count": 56,
+    "byte_count": 31203,
+    "avg_packet_size": 557.2,
+    "avg_inter_arrival": 0.019,
+    "flags": {
+      "SYN": 1,
+      "ACK": 55,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.253.247.52",
+      "10.180.77.116",
+      443,
+      60586,
+      "TCP"
+    ],
+    "duration": 1.038,
+    "packet_count": 68,
+    "byte_count": 27778,
+    "avg_packet_size": 408.5,
+    "avg_inter_arrival": 0.015,
+    "flags": {
+      "SYN": 1,
+      "ACK": 68,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60583,
+      "TCP"
+    ],
+    "duration": 0.319,
+    "packet_count": 16,
+    "byte_count": 2323,
+    "avg_packet_size": 145.19,
+    "avg_inter_arrival": 0.021,
+    "flags": {
+      "SYN": 1,
+      "ACK": 15,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      59644,
+      443,
+      "TCP"
+    ],
+    "duration": 4.803,
+    "packet_count": 5,
+    "byte_count": 303,
+    "avg_packet_size": 60.6,
+    "avg_inter_arrival": 1.201,
+    "flags": {
+      "SYN": 0,
+      "ACK": 5,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      59644,
+      "TCP"
+    ],
+    "duration": 4.788,
+    "packet_count": 4,
+    "byte_count": 252,
+    "avg_packet_size": 63.0,
+    "avg_inter_arrival": 1.596,
+    "flags": {
+      "SYN": 0,
+      "ACK": 4,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      59550,
+      443,
+      "TCP"
+    ],
+    "duration": 4.789,
+    "packet_count": 5,
+    "byte_count": 303,
+    "avg_packet_size": 60.6,
+    "avg_inter_arrival": 1.197,
+    "flags": {
+      "SYN": 0,
+      "ACK": 5,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      59550,
+      "TCP"
+    ],
+    "duration": 4.778,
+    "packet_count": 4,
+    "byte_count": 252,
+    "avg_packet_size": 63.0,
+    "avg_inter_arrival": 1.593,
+    "flags": {
+      "SYN": 0,
+      "ACK": 4,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "224.0.0.252",
+      64342,
+      5355,
+      "UDP"
+    ],
+    "duration": 0.372,
+    "packet_count": 2,
+    "byte_count": 138,
+    "avg_packet_size": 69.0,
+    "avg_inter_arrival": 0.371,
+    "flags": {
+      "SYN": 0,
+      "ACK": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60669,
+      443,
+      "TCP"
+    ],
+    "duration": 19.401,
+    "packet_count": 30,
+    "byte_count": 23233,
+    "avg_packet_size": 774.43,
+    "avg_inter_arrival": 0.669,
+    "flags": {
+      "SYN": 1,
+      "ACK": 29,
+      "FIN": 7
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.253.247.52",
+      60670,
+      443,
+      "TCP"
+    ],
+    "duration": 50.399,
+    "packet_count": 62,
+    "byte_count": 9739,
+    "avg_packet_size": 157.08,
+    "avg_inter_arrival": 0.826,
+    "flags": {
+      "SYN": 1,
+      "ACK": 61,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "120.253.247.52",
+      "10.180.77.116",
+      443,
+      60670,
+      "TCP"
+    ],
+    "duration": 50.392,
+    "packet_count": 65,
+    "byte_count": 12893,
+    "avg_packet_size": 198.35,
+    "avg_inter_arrival": 0.787,
+    "flags": {
+      "SYN": 1,
+      "ACK": 65,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60669,
+      "TCP"
+    ],
+    "duration": 0.201,
+    "packet_count": 17,
+    "byte_count": 2422,
+    "avg_packet_size": 142.47,
+    "avg_inter_arrival": 0.013,
+    "flags": {
+      "SYN": 1,
+      "ACK": 16,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60693,
+      443,
+      "TCP"
+    ],
+    "duration": 0.155,
+    "packet_count": 23,
+    "byte_count": 21311,
+    "avg_packet_size": 926.57,
+    "avg_inter_arrival": 0.007,
+    "flags": {
+      "SYN": 1,
+      "ACK": 22,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60693,
+      "TCP"
+    ],
+    "duration": 0.125,
+    "packet_count": 16,
+    "byte_count": 2329,
+    "avg_packet_size": 145.56,
+    "avg_inter_arrival": 0.008,
+    "flags": {
+      "SYN": 1,
+      "ACK": 16,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60711,
+      443,
+      "TCP"
+    ],
+    "duration": 0.159,
+    "packet_count": 19,
+    "byte_count": 19331,
+    "avg_packet_size": 1017.42,
+    "avg_inter_arrival": 0.009,
+    "flags": {
+      "SYN": 1,
+      "ACK": 18,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60711,
+      "TCP"
+    ],
+    "duration": 0.173,
+    "packet_count": 15,
+    "byte_count": 2263,
+    "avg_packet_size": 150.87,
+    "avg_inter_arrival": 0.012,
+    "flags": {
+      "SYN": 1,
+      "ACK": 14,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60726,
+      443,
+      "TCP"
+    ],
+    "duration": 19.427,
+    "packet_count": 27,
+    "byte_count": 20154,
+    "avg_packet_size": 746.44,
+    "avg_inter_arrival": 0.747,
+    "flags": {
+      "SYN": 1,
+      "ACK": 26,
+      "FIN": 7
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60726,
+      "TCP"
+    ],
+    "duration": 0.314,
+    "packet_count": 12,
+    "byte_count": 2083,
+    "avg_packet_size": 173.58,
+    "avg_inter_arrival": 0.029,
+    "flags": {
+      "SYN": 1,
+      "ACK": 11,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60735,
+      443,
+      "TCP"
+    ],
+    "duration": 0.24,
+    "packet_count": 19,
+    "byte_count": 19436,
+    "avg_packet_size": 1022.95,
+    "avg_inter_arrival": 0.013,
+    "flags": {
+      "SYN": 1,
+      "ACK": 18,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60735,
+      "TCP"
+    ],
+    "duration": 0.27,
+    "packet_count": 13,
+    "byte_count": 2175,
+    "avg_packet_size": 167.31,
+    "avg_inter_arrival": 0.022,
+    "flags": {
+      "SYN": 1,
+      "ACK": 11,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.253.247.52",
+      60751,
+      443,
+      "TCP"
+    ],
+    "duration": 0.631,
+    "packet_count": 28,
+    "byte_count": 29640,
+    "avg_packet_size": 1058.57,
+    "avg_inter_arrival": 0.023,
+    "flags": {
+      "SYN": 1,
+      "ACK": 27,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.253.247.52",
+      "10.180.77.116",
+      443,
+      60751,
+      "TCP"
+    ],
+    "duration": 0.631,
+    "packet_count": 18,
+    "byte_count": 8287,
+    "avg_packet_size": 460.39,
+    "avg_inter_arrival": 0.037,
+    "flags": {
+      "SYN": 1,
+      "ACK": 18,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60752,
+      443,
+      "TCP"
+    ],
+    "duration": 0.137,
+    "packet_count": 20,
+    "byte_count": 18809,
+    "avg_packet_size": 940.45,
+    "avg_inter_arrival": 0.007,
+    "flags": {
+      "SYN": 1,
+      "ACK": 19,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "111.47.131.147",
+      60755,
+      443,
+      "TCP"
+    ],
+    "duration": 6.028,
+    "packet_count": 42,
+    "byte_count": 49235,
+    "avg_packet_size": 1172.26,
+    "avg_inter_arrival": 0.147,
+    "flags": {
+      "SYN": 1,
+      "ACK": 41,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60752,
+      "TCP"
+    ],
+    "duration": 0.078,
+    "packet_count": 13,
+    "byte_count": 2175,
+    "avg_packet_size": 167.31,
+    "avg_inter_arrival": 0.006,
+    "flags": {
+      "SYN": 1,
+      "ACK": 13,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "111.47.131.147",
+      "10.180.77.116",
+      443,
+      60755,
+      "TCP"
+    ],
+    "duration": 6.009,
+    "packet_count": 24,
+    "byte_count": 3665,
+    "avg_packet_size": 152.71,
+    "avg_inter_arrival": 0.261,
+    "flags": {
+      "SYN": 1,
+      "ACK": 24,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60768,
+      443,
+      "TCP"
+    ],
+    "duration": 0.162,
+    "packet_count": 19,
+    "byte_count": 19593,
+    "avg_packet_size": 1031.21,
+    "avg_inter_arrival": 0.009,
+    "flags": {
+      "SYN": 1,
+      "ACK": 18,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60768,
+      "TCP"
+    ],
+    "duration": 0.147,
+    "packet_count": 15,
+    "byte_count": 2295,
+    "avg_packet_size": 153.0,
+    "avg_inter_arrival": 0.01,
+    "flags": {
+      "SYN": 1,
+      "ACK": 15,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.253.247.52",
+      60779,
+      443,
+      "TCP"
+    ],
+    "duration": 0.736,
+    "packet_count": 28,
+    "byte_count": 29646,
+    "avg_packet_size": 1058.79,
+    "avg_inter_arrival": 0.027,
+    "flags": {
+      "SYN": 1,
+      "ACK": 27,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.253.247.52",
+      "10.180.77.116",
+      443,
+      60779,
+      "TCP"
+    ],
+    "duration": 0.735,
+    "packet_count": 20,
+    "byte_count": 8499,
+    "avg_packet_size": 424.95,
+    "avg_inter_arrival": 0.039,
+    "flags": {
+      "SYN": 1,
+      "ACK": 20,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.253.247.52",
+      60806,
+      443,
+      "TCP"
+    ],
+    "duration": 0.651,
+    "packet_count": 27,
+    "byte_count": 29595,
+    "avg_packet_size": 1096.11,
+    "avg_inter_arrival": 0.025,
+    "flags": {
+      "SYN": 1,
+      "ACK": 26,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.253.247.52",
+      "10.180.77.116",
+      443,
+      60806,
+      "TCP"
+    ],
+    "duration": 0.649,
+    "packet_count": 17,
+    "byte_count": 8289,
+    "avg_packet_size": 487.59,
+    "avg_inter_arrival": 0.041,
+    "flags": {
+      "SYN": 1,
+      "ACK": 17,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60841,
+      443,
+      "TCP"
+    ],
+    "duration": 0.17,
+    "packet_count": 19,
+    "byte_count": 19593,
+    "avg_packet_size": 1031.21,
+    "avg_inter_arrival": 0.009,
+    "flags": {
+      "SYN": 1,
+      "ACK": 18,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60841,
+      "TCP"
+    ],
+    "duration": 0.14,
+    "packet_count": 12,
+    "byte_count": 2116,
+    "avg_packet_size": 176.33,
+    "avg_inter_arrival": 0.013,
+    "flags": {
+      "SYN": 1,
+      "ACK": 12,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60852,
+      443,
+      "TCP"
+    ],
+    "duration": 0.206,
+    "packet_count": 20,
+    "byte_count": 20191,
+    "avg_packet_size": 1009.55,
+    "avg_inter_arrival": 0.011,
+    "flags": {
+      "SYN": 1,
+      "ACK": 19,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60852,
+      "TCP"
+    ],
+    "duration": 0.179,
+    "packet_count": 14,
+    "byte_count": 2203,
+    "avg_packet_size": 157.36,
+    "avg_inter_arrival": 0.014,
+    "flags": {
+      "SYN": 1,
+      "ACK": 14,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "13.89.179.10",
+      60858,
+      443,
+      "TCP"
+    ],
+    "duration": 1.428,
+    "packet_count": 12,
+    "byte_count": 3915,
+    "avg_packet_size": 326.25,
+    "avg_inter_arrival": 0.13,
+    "flags": {
+      "SYN": 1,
+      "ACK": 11,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60869,
+      443,
+      "TCP"
+    ],
+    "duration": 0.133,
+    "packet_count": 21,
+    "byte_count": 20232,
+    "avg_packet_size": 963.43,
+    "avg_inter_arrival": 0.007,
+    "flags": {
+      "SYN": 1,
+      "ACK": 20,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60869,
+      "TCP"
+    ],
+    "duration": 0.136,
+    "packet_count": 16,
+    "byte_count": 2329,
+    "avg_packet_size": 145.56,
+    "avg_inter_arrival": 0.009,
+    "flags": {
+      "SYN": 1,
+      "ACK": 15,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "13.89.179.10",
+      "10.180.77.116",
+      443,
+      60858,
+      "TCP"
+    ],
+    "duration": 1.417,
+    "packet_count": 10,
+    "byte_count": 5763,
+    "avg_packet_size": 576.3,
+    "avg_inter_arrival": 0.157,
+    "flags": {
+      "SYN": 1,
+      "ACK": 10,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60882,
+      443,
+      "TCP"
+    ],
+    "duration": 0.16,
+    "packet_count": 21,
+    "byte_count": 19773,
+    "avg_packet_size": 941.57,
+    "avg_inter_arrival": 0.008,
+    "flags": {
+      "SYN": 1,
+      "ACK": 20,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60882,
+      "TCP"
+    ],
+    "duration": 0.134,
+    "packet_count": 15,
+    "byte_count": 2269,
+    "avg_packet_size": 151.27,
+    "avg_inter_arrival": 0.01,
+    "flags": {
+      "SYN": 1,
+      "ACK": 15,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60895,
+      443,
+      "TCP"
+    ],
+    "duration": 0.158,
+    "packet_count": 19,
+    "byte_count": 19434,
+    "avg_packet_size": 1022.84,
+    "avg_inter_arrival": 0.009,
+    "flags": {
+      "SYN": 1,
+      "ACK": 18,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.253.247.52",
+      60896,
+      443,
+      "TCP"
+    ],
+    "duration": 0.64,
+    "packet_count": 29,
+    "byte_count": 29696,
+    "avg_packet_size": 1024.0,
+    "avg_inter_arrival": 0.023,
+    "flags": {
+      "SYN": 1,
+      "ACK": 28,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.253.247.52",
+      "10.180.77.116",
+      443,
+      60896,
+      "TCP"
+    ],
+    "duration": 0.642,
+    "packet_count": 17,
+    "byte_count": 8319,
+    "avg_packet_size": 489.35,
+    "avg_inter_arrival": 0.04,
+    "flags": {
+      "SYN": 1,
+      "ACK": 17,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60895,
+      "TCP"
+    ],
+    "duration": 0.126,
+    "packet_count": 15,
+    "byte_count": 2263,
+    "avg_packet_size": 150.87,
+    "avg_inter_arrival": 0.009,
+    "flags": {
+      "SYN": 1,
+      "ACK": 14,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60910,
+      443,
+      "TCP"
+    ],
+    "duration": 0.257,
+    "packet_count": 19,
+    "byte_count": 19157,
+    "avg_packet_size": 1008.26,
+    "avg_inter_arrival": 0.014,
+    "flags": {
+      "SYN": 1,
+      "ACK": 18,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60910,
+      "TCP"
+    ],
+    "duration": 0.25,
+    "packet_count": 13,
+    "byte_count": 2176,
+    "avg_packet_size": 167.38,
+    "avg_inter_arrival": 0.021,
+    "flags": {
+      "SYN": 1,
+      "ACK": 12,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      57752,
+      "TCP"
+    ],
+    "duration": 0.0,
+    "packet_count": 1,
+    "byte_count": 60,
+    "avg_packet_size": 60.0,
+    "avg_inter_arrival": 0,
+    "flags": {
+      "SYN": 0,
+      "ACK": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60929,
+      443,
+      "TCP"
+    ],
+    "duration": 0.158,
+    "packet_count": 20,
+    "byte_count": 19382,
+    "avg_packet_size": 969.1,
+    "avg_inter_arrival": 0.008,
+    "flags": {
+      "SYN": 1,
+      "ACK": 19,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60929,
+      "TCP"
+    ],
+    "duration": 0.129,
+    "packet_count": 14,
+    "byte_count": 2203,
+    "avg_packet_size": 157.36,
+    "avg_inter_arrival": 0.01,
+    "flags": {
+      "SYN": 1,
+      "ACK": 14,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60954,
+      443,
+      "TCP"
+    ],
+    "duration": 0.136,
+    "packet_count": 20,
+    "byte_count": 19304,
+    "avg_packet_size": 965.2,
+    "avg_inter_arrival": 0.007,
+    "flags": {
+      "SYN": 1,
+      "ACK": 19,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.253.247.52",
+      60955,
+      443,
+      "TCP"
+    ],
+    "duration": 0.591,
+    "packet_count": 28,
+    "byte_count": 29635,
+    "avg_packet_size": 1058.39,
+    "avg_inter_arrival": 0.022,
+    "flags": {
+      "SYN": 1,
+      "ACK": 27,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.253.247.52",
+      "10.180.77.116",
+      443,
+      60955,
+      "TCP"
+    ],
+    "duration": 0.591,
+    "packet_count": 19,
+    "byte_count": 8373,
+    "avg_packet_size": 440.68,
+    "avg_inter_arrival": 0.033,
+    "flags": {
+      "SYN": 1,
+      "ACK": 19,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60954,
+      "TCP"
+    ],
+    "duration": 0.094,
+    "packet_count": 13,
+    "byte_count": 2143,
+    "avg_packet_size": 164.85,
+    "avg_inter_arrival": 0.008,
+    "flags": {
+      "SYN": 1,
+      "ACK": 12,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      60968,
+      443,
+      "TCP"
+    ],
+    "duration": 0.225,
+    "packet_count": 20,
+    "byte_count": 20094,
+    "avg_packet_size": 1004.7,
+    "avg_inter_arrival": 0.012,
+    "flags": {
+      "SYN": 1,
+      "ACK": 19,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      60968,
+      "TCP"
+    ],
+    "duration": 0.192,
+    "packet_count": 17,
+    "byte_count": 2389,
+    "avg_packet_size": 140.53,
+    "avg_inter_arrival": 0.012,
+    "flags": {
+      "SYN": 1,
+      "ACK": 16,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.253.247.52",
+      60981,
+      443,
+      "TCP"
+    ],
+    "duration": 0.747,
+    "packet_count": 27,
+    "byte_count": 29578,
+    "avg_packet_size": 1095.48,
+    "avg_inter_arrival": 0.029,
+    "flags": {
+      "SYN": 1,
+      "ACK": 26,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.253.247.52",
+      "10.180.77.116",
+      443,
+      60981,
+      "TCP"
+    ],
+    "duration": 0.747,
+    "packet_count": 18,
+    "byte_count": 8295,
+    "avg_packet_size": 460.83,
+    "avg_inter_arrival": 0.044,
+    "flags": {
+      "SYN": 1,
+      "ACK": 18,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.253.247.52",
+      61012,
+      443,
+      "TCP"
+    ],
+    "duration": 0.99,
+    "packet_count": 64,
+    "byte_count": 31611,
+    "avg_packet_size": 493.92,
+    "avg_inter_arrival": 0.016,
+    "flags": {
+      "SYN": 1,
+      "ACK": 63,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.253.247.52",
+      "10.180.77.116",
+      443,
+      61012,
+      "TCP"
+    ],
+    "duration": 0.988,
+    "packet_count": 85,
+    "byte_count": 28527,
+    "avg_packet_size": 335.61,
+    "avg_inter_arrival": 0.012,
+    "flags": {
+      "SYN": 1,
+      "ACK": 85,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      61029,
+      443,
+      "TCP"
+    ],
+    "duration": 34.354,
+    "packet_count": 27,
+    "byte_count": 12935,
+    "avg_packet_size": 479.07,
+    "avg_inter_arrival": 1.321,
+    "flags": {
+      "SYN": 1,
+      "ACK": 26,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      61030,
+      443,
+      "TCP"
+    ],
+    "duration": 34.355,
+    "packet_count": 26,
+    "byte_count": 12916,
+    "avg_packet_size": 496.77,
+    "avg_inter_arrival": 1.374,
+    "flags": {
+      "SYN": 1,
+      "ACK": 25,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      61029,
+      "TCP"
+    ],
+    "duration": 34.322,
+    "packet_count": 27,
+    "byte_count": 13005,
+    "avg_packet_size": 481.67,
+    "avg_inter_arrival": 1.32,
+    "flags": {
+      "SYN": 1,
+      "ACK": 27,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      61030,
+      "TCP"
+    ],
+    "duration": 34.322,
+    "packet_count": 25,
+    "byte_count": 12853,
+    "avg_packet_size": 514.12,
+    "avg_inter_arrival": 1.43,
+    "flags": {
+      "SYN": 1,
+      "ACK": 25,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "223.86.122.184",
+      61035,
+      443,
+      "TCP"
+    ],
+    "duration": 41.867,
+    "packet_count": 21,
+    "byte_count": 7831,
+    "avg_packet_size": 372.9,
+    "avg_inter_arrival": 2.093,
+    "flags": {
+      "SYN": 1,
+      "ACK": 20,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "223.86.122.184",
+      61036,
+      443,
+      "TCP"
+    ],
+    "duration": 40.209,
+    "packet_count": 16,
+    "byte_count": 4080,
+    "avg_packet_size": 255.0,
+    "avg_inter_arrival": 2.681,
+    "flags": {
+      "SYN": 1,
+      "ACK": 15,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "223.86.122.184",
+      61037,
+      443,
+      "TCP"
+    ],
+    "duration": 40.224,
+    "packet_count": 26,
+    "byte_count": 10301,
+    "avg_packet_size": 396.19,
+    "avg_inter_arrival": 1.609,
+    "flags": {
+      "SYN": 1,
+      "ACK": 25,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "223.86.122.184",
+      "10.180.77.116",
+      443,
+      61035,
+      "TCP"
+    ],
+    "duration": 41.869,
+    "packet_count": 22,
+    "byte_count": 12787,
+    "avg_packet_size": 581.23,
+    "avg_inter_arrival": 1.994,
+    "flags": {
+      "SYN": 1,
+      "ACK": 22,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "223.86.122.184",
+      "10.180.77.116",
+      443,
+      61037,
+      "TCP"
+    ],
+    "duration": 40.226,
+    "packet_count": 29,
+    "byte_count": 17640,
+    "avg_packet_size": 608.28,
+    "avg_inter_arrival": 1.437,
+    "flags": {
+      "SYN": 1,
+      "ACK": 29,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "223.86.122.184",
+      "10.180.77.116",
+      443,
+      61036,
+      "TCP"
+    ],
+    "duration": 40.21,
+    "packet_count": 18,
+    "byte_count": 10341,
+    "avg_packet_size": 574.5,
+    "avg_inter_arrival": 2.365,
+    "flags": {
+      "SYN": 1,
+      "ACK": 18,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.253.247.52",
+      61056,
+      443,
+      "TCP"
+    ],
+    "duration": 41.035,
+    "packet_count": 900,
+    "byte_count": 103424,
+    "avg_packet_size": 114.92,
+    "avg_inter_arrival": 0.046,
+    "flags": {
+      "SYN": 1,
+      "ACK": 899,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "120.253.247.52",
+      "10.180.77.116",
+      443,
+      61056,
+      "TCP"
+    ],
+    "duration": 41.035,
+    "packet_count": 2586,
+    "byte_count": 3639418,
+    "avg_packet_size": 1407.35,
+    "avg_inter_arrival": 0.016,
+    "flags": {
+      "SYN": 1,
+      "ACK": 2586,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      61089,
+      443,
+      "TCP"
+    ],
+    "duration": 19.369,
+    "packet_count": 29,
+    "byte_count": 23006,
+    "avg_packet_size": 793.31,
+    "avg_inter_arrival": 0.692,
+    "flags": {
+      "SYN": 1,
+      "ACK": 28,
+      "FIN": 7
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      61089,
+      "TCP"
+    ],
+    "duration": 0.62,
+    "packet_count": 12,
+    "byte_count": 2083,
+    "avg_packet_size": 173.58,
+    "avg_inter_arrival": 0.056,
+    "flags": {
+      "SYN": 1,
+      "ACK": 11,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      61096,
+      443,
+      "TCP"
+    ],
+    "duration": 0.469,
+    "packet_count": 11,
+    "byte_count": 7492,
+    "avg_packet_size": 681.09,
+    "avg_inter_arrival": 0.047,
+    "flags": {
+      "SYN": 1,
+      "ACK": 10,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      61096,
+      "TCP"
+    ],
+    "duration": 0.319,
+    "packet_count": 14,
+    "byte_count": 1996,
+    "avg_packet_size": 142.57,
+    "avg_inter_arrival": 0.025,
+    "flags": {
+      "SYN": 1,
+      "ACK": 13,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "122.14.236.52",
+      65467,
+      443,
+      "TCP"
+    ],
+    "duration": 45.188,
+    "packet_count": 8,
+    "byte_count": 552,
+    "avg_packet_size": 69.0,
+    "avg_inter_arrival": 6.455,
+    "flags": {
+      "SYN": 0,
+      "ACK": 8,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "122.14.236.52",
+      "10.180.77.116",
+      443,
+      65467,
+      "TCP"
+    ],
+    "duration": 45.113,
+    "packet_count": 8,
+    "byte_count": 560,
+    "avg_packet_size": 70.0,
+    "avg_inter_arrival": 6.445,
+    "flags": {
+      "SYN": 0,
+      "ACK": 8,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "175.27.0.214",
+      61193,
+      443,
+      "TCP"
+    ],
+    "duration": 0.125,
+    "packet_count": 12,
+    "byte_count": 1883,
+    "avg_packet_size": 156.92,
+    "avg_inter_arrival": 0.011,
+    "flags": {
+      "SYN": 1,
+      "ACK": 11,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "175.27.0.214",
+      "10.180.77.116",
+      443,
+      61193,
+      "TCP"
+    ],
+    "duration": 0.115,
+    "packet_count": 14,
+    "byte_count": 5789,
+    "avg_packet_size": 413.5,
+    "avg_inter_arrival": 0.009,
+    "flags": {
+      "SYN": 1,
+      "ACK": 14,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      61197,
+      443,
+      "TCP"
+    ],
+    "duration": 0.181,
+    "packet_count": 10,
+    "byte_count": 6195,
+    "avg_packet_size": 619.5,
+    "avg_inter_arrival": 0.02,
+    "flags": {
+      "SYN": 1,
+      "ACK": 9,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      61197,
+      "TCP"
+    ],
+    "duration": 0.15,
+    "packet_count": 8,
+    "byte_count": 1875,
+    "avg_packet_size": 234.38,
+    "avg_inter_arrival": 0.021,
+    "flags": {
+      "SYN": 1,
+      "ACK": 8,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "109.244.239.32",
+      62109,
+      3478,
+      "UDP"
+    ],
+    "duration": 30.008,
+    "packet_count": 2,
+    "byte_count": 124,
+    "avg_packet_size": 62.0,
+    "avg_inter_arrival": 30.008,
+    "flags": {
+      "SYN": 0,
+      "ACK": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "109.244.239.32",
+      "10.180.77.116",
+      3478,
+      62109,
+      "UDP"
+    ],
+    "duration": 30.002,
+    "packet_count": 2,
+    "byte_count": 196,
+    "avg_packet_size": 98.0,
+    "avg_inter_arrival": 30.002,
+    "flags": {
+      "SYN": 0,
+      "ACK": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      61256,
+      443,
+      "TCP"
+    ],
+    "duration": 0.183,
+    "packet_count": 19,
+    "byte_count": 19367,
+    "avg_packet_size": 1019.32,
+    "avg_inter_arrival": 0.01,
+    "flags": {
+      "SYN": 1,
+      "ACK": 18,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.253.247.52",
+      61257,
+      443,
+      "TCP"
+    ],
+    "duration": 0.785,
+    "packet_count": 29,
+    "byte_count": 31089,
+    "avg_packet_size": 1072.03,
+    "avg_inter_arrival": 0.028,
+    "flags": {
+      "SYN": 1,
+      "ACK": 28,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.253.247.52",
+      "10.180.77.116",
+      443,
+      61257,
+      "TCP"
+    ],
+    "duration": 0.786,
+    "packet_count": 19,
+    "byte_count": 8435,
+    "avg_packet_size": 443.95,
+    "avg_inter_arrival": 0.044,
+    "flags": {
+      "SYN": 1,
+      "ACK": 19,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "13.89.179.10",
+      61260,
+      443,
+      "TCP"
+    ],
+    "duration": 0.667,
+    "packet_count": 10,
+    "byte_count": 3795,
+    "avg_packet_size": 379.5,
+    "avg_inter_arrival": 0.074,
+    "flags": {
+      "SYN": 1,
+      "ACK": 9,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      61256,
+      "TCP"
+    ],
+    "duration": 0.153,
+    "packet_count": 11,
+    "byte_count": 2055,
+    "avg_packet_size": 186.82,
+    "avg_inter_arrival": 0.015,
+    "flags": {
+      "SYN": 1,
+      "ACK": 11,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "13.89.179.10",
+      "10.180.77.116",
+      443,
+      61260,
+      "TCP"
+    ],
+    "duration": 0.694,
+    "packet_count": 12,
+    "byte_count": 5889,
+    "avg_packet_size": 490.75,
+    "avg_inter_arrival": 0.063,
+    "flags": {
+      "SYN": 1,
+      "ACK": 12,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      61321,
+      443,
+      "TCP"
+    ],
+    "duration": 0.162,
+    "packet_count": 21,
+    "byte_count": 19381,
+    "avg_packet_size": 922.9,
+    "avg_inter_arrival": 0.008,
+    "flags": {
+      "SYN": 1,
+      "ACK": 20,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      61321,
+      "TCP"
+    ],
+    "duration": 0.132,
+    "packet_count": 15,
+    "byte_count": 2263,
+    "avg_packet_size": 150.87,
+    "avg_inter_arrival": 0.009,
+    "flags": {
+      "SYN": 1,
+      "ACK": 15,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      61347,
+      443,
+      "TCP"
+    ],
+    "duration": 0.178,
+    "packet_count": 20,
+    "byte_count": 20205,
+    "avg_packet_size": 1010.25,
+    "avg_inter_arrival": 0.009,
+    "flags": {
+      "SYN": 1,
+      "ACK": 19,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      61347,
+      "TCP"
+    ],
+    "duration": 0.19,
+    "packet_count": 14,
+    "byte_count": 2267,
+    "avg_packet_size": 161.93,
+    "avg_inter_arrival": 0.015,
+    "flags": {
+      "SYN": 1,
+      "ACK": 13,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "111.47.131.147",
+      61358,
+      443,
+      "TCP"
+    ],
+    "duration": 4.781,
+    "packet_count": 26,
+    "byte_count": 28570,
+    "avg_packet_size": 1098.85,
+    "avg_inter_arrival": 0.191,
+    "flags": {
+      "SYN": 1,
+      "ACK": 25,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "111.47.131.147",
+      "10.180.77.116",
+      443,
+      61358,
+      "TCP"
+    ],
+    "duration": 4.718,
+    "packet_count": 19,
+    "byte_count": 2430,
+    "avg_packet_size": 127.89,
+    "avg_inter_arrival": 0.262,
+    "flags": {
+      "SYN": 1,
+      "ACK": 19,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.253.247.52",
+      61365,
+      443,
+      "TCP"
+    ],
+    "duration": 0.714,
+    "packet_count": 29,
+    "byte_count": 29706,
+    "avg_packet_size": 1024.34,
+    "avg_inter_arrival": 0.026,
+    "flags": {
+      "SYN": 1,
+      "ACK": 28,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.253.247.52",
+      "10.180.77.116",
+      443,
+      61365,
+      "TCP"
+    ],
+    "duration": 0.712,
+    "packet_count": 18,
+    "byte_count": 8304,
+    "avg_packet_size": 461.33,
+    "avg_inter_arrival": 0.042,
+    "flags": {
+      "SYN": 1,
+      "ACK": 18,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "222.192.187.243",
+      61385,
+      443,
+      "TCP"
+    ],
+    "duration": 0.105,
+    "packet_count": 9,
+    "byte_count": 1638,
+    "avg_packet_size": 182.0,
+    "avg_inter_arrival": 0.013,
+    "flags": {
+      "SYN": 1,
+      "ACK": 8,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.253.247.52",
+      61388,
+      443,
+      "TCP"
+    ],
+    "duration": 0.731,
+    "packet_count": 29,
+    "byte_count": 29719,
+    "avg_packet_size": 1024.79,
+    "avg_inter_arrival": 0.026,
+    "flags": {
+      "SYN": 1,
+      "ACK": 28,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "222.192.187.243",
+      "10.180.77.116",
+      443,
+      61385,
+      "TCP"
+    ],
+    "duration": 0.055,
+    "packet_count": 8,
+    "byte_count": 1496,
+    "avg_packet_size": 187.0,
+    "avg_inter_arrival": 0.008,
+    "flags": {
+      "SYN": 1,
+      "ACK": 8,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "120.253.247.52",
+      "10.180.77.116",
+      443,
+      61388,
+      "TCP"
+    ],
+    "duration": 0.726,
+    "packet_count": 20,
+    "byte_count": 8656,
+    "avg_packet_size": 432.8,
+    "avg_inter_arrival": 0.038,
+    "flags": {
+      "SYN": 1,
+      "ACK": 20,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      61449,
+      443,
+      "TCP"
+    ],
+    "duration": 0.149,
+    "packet_count": 20,
+    "byte_count": 19592,
+    "avg_packet_size": 979.6,
+    "avg_inter_arrival": 0.008,
+    "flags": {
+      "SYN": 1,
+      "ACK": 19,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      61449,
+      "TCP"
+    ],
+    "duration": 0.115,
+    "packet_count": 10,
+    "byte_count": 1995,
+    "avg_packet_size": 199.5,
+    "avg_inter_arrival": 0.013,
+    "flags": {
+      "SYN": 1,
+      "ACK": 10,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "175.27.13.142",
+      50391,
+      443,
+      "TCP"
+    ],
+    "duration": 0.122,
+    "packet_count": 5,
+    "byte_count": 1998,
+    "avg_packet_size": 399.6,
+    "avg_inter_arrival": 0.031,
+    "flags": {
+      "SYN": 0,
+      "ACK": 5,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "175.27.13.142",
+      "10.180.77.116",
+      443,
+      50391,
+      "TCP"
+    ],
+    "duration": 0.035,
+    "packet_count": 5,
+    "byte_count": 1674,
+    "avg_packet_size": 334.8,
+    "avg_inter_arrival": 0.009,
+    "flags": {
+      "SYN": 0,
+      "ACK": 5,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.253.247.52",
+      61501,
+      443,
+      "TCP"
+    ],
+    "duration": 1.168,
+    "packet_count": 58,
+    "byte_count": 31369,
+    "avg_packet_size": 540.84,
+    "avg_inter_arrival": 0.02,
+    "flags": {
+      "SYN": 1,
+      "ACK": 57,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.253.247.52",
+      "10.180.77.116",
+      443,
+      61501,
+      "TCP"
+    ],
+    "duration": 1.164,
+    "packet_count": 70,
+    "byte_count": 25695,
+    "avg_packet_size": 367.07,
+    "avg_inter_arrival": 0.017,
+    "flags": {
+      "SYN": 1,
+      "ACK": 70,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "13.89.179.10",
+      61516,
+      443,
+      "TCP"
+    ],
+    "duration": 1.003,
+    "packet_count": 12,
+    "byte_count": 5639,
+    "avg_packet_size": 469.92,
+    "avg_inter_arrival": 0.091,
+    "flags": {
+      "SYN": 1,
+      "ACK": 11,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "13.89.179.10",
+      "10.180.77.116",
+      443,
+      61516,
+      "TCP"
+    ],
+    "duration": 0.863,
+    "packet_count": 10,
+    "byte_count": 5763,
+    "avg_packet_size": 576.3,
+    "avg_inter_arrival": 0.096,
+    "flags": {
+      "SYN": 1,
+      "ACK": 10,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      61590,
+      443,
+      "TCP"
+    ],
+    "duration": 19.186,
+    "packet_count": 29,
+    "byte_count": 22058,
+    "avg_packet_size": 760.62,
+    "avg_inter_arrival": 0.685,
+    "flags": {
+      "SYN": 1,
+      "ACK": 28,
+      "FIN": 7
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      61590,
+      "TCP"
+    ],
+    "duration": 0.021,
+    "packet_count": 16,
+    "byte_count": 2361,
+    "avg_packet_size": 147.56,
+    "avg_inter_arrival": 0.001,
+    "flags": {
+      "SYN": 1,
+      "ACK": 15,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      61695,
+      443,
+      "TCP"
+    ],
+    "duration": 0.116,
+    "packet_count": 12,
+    "byte_count": 5748,
+    "avg_packet_size": 479.0,
+    "avg_inter_arrival": 0.011,
+    "flags": {
+      "SYN": 1,
+      "ACK": 11,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      61695,
+      "TCP"
+    ],
+    "duration": 0.094,
+    "packet_count": 7,
+    "byte_count": 1783,
+    "avg_packet_size": 254.71,
+    "avg_inter_arrival": 0.016,
+    "flags": {
+      "SYN": 1,
+      "ACK": 7,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "58.42.61.194",
+      62799,
+      443,
+      "TCP"
+    ],
+    "duration": 23.442,
+    "packet_count": 16,
+    "byte_count": 1585,
+    "avg_packet_size": 99.06,
+    "avg_inter_arrival": 1.563,
+    "flags": {
+      "SYN": 0,
+      "ACK": 16,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "58.42.61.194",
+      "10.180.77.116",
+      443,
+      62799,
+      "TCP"
+    ],
+    "duration": 23.489,
+    "packet_count": 17,
+    "byte_count": 2401,
+    "avg_packet_size": 141.24,
+    "avg_inter_arrival": 1.468,
+    "flags": {
+      "SYN": 0,
+      "ACK": 17,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "101.69.194.203",
+      61745,
+      80,
+      "TCP"
+    ],
+    "duration": 0.152,
+    "packet_count": 5,
+    "byte_count": 849,
+    "avg_packet_size": 169.8,
+    "avg_inter_arrival": 0.038,
+    "flags": {
+      "SYN": 1,
+      "ACK": 4,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "101.69.194.203",
+      "10.180.77.116",
+      80,
+      61745,
+      "TCP"
+    ],
+    "duration": 0.113,
+    "packet_count": 9,
+    "byte_count": 7687,
+    "avg_packet_size": 854.11,
+    "avg_inter_arrival": 0.014,
+    "flags": {
+      "SYN": 1,
+      "ACK": 9,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "116.196.134.233",
+      61748,
+      443,
+      "TCP"
+    ],
+    "duration": 0.085,
+    "packet_count": 11,
+    "byte_count": 1891,
+    "avg_packet_size": 171.91,
+    "avg_inter_arrival": 0.009,
+    "flags": {
+      "SYN": 1,
+      "ACK": 10,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "116.196.134.233",
+      "10.180.77.116",
+      443,
+      61748,
+      "TCP"
+    ],
+    "duration": 0.114,
+    "packet_count": 13,
+    "byte_count": 7163,
+    "avg_packet_size": 551.0,
+    "avg_inter_arrival": 0.009,
+    "flags": {
+      "SYN": 1,
+      "ACK": 13,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "13.89.179.10",
+      61767,
+      443,
+      "TCP"
+    ],
+    "duration": 0.772,
+    "packet_count": 12,
+    "byte_count": 3903,
+    "avg_packet_size": 325.25,
+    "avg_inter_arrival": 0.07,
+    "flags": {
+      "SYN": 1,
+      "ACK": 11,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "13.89.179.10",
+      "10.180.77.116",
+      443,
+      61767,
+      "TCP"
+    ],
+    "duration": 0.773,
+    "packet_count": 10,
+    "byte_count": 5763,
+    "avg_packet_size": 576.3,
+    "avg_inter_arrival": 0.086,
+    "flags": {
+      "SYN": 1,
+      "ACK": 10,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "111.47.131.147",
+      61837,
+      443,
+      "TCP"
+    ],
+    "duration": 4.335,
+    "packet_count": 12,
+    "byte_count": 8419,
+    "avg_packet_size": 701.58,
+    "avg_inter_arrival": 0.394,
+    "flags": {
+      "SYN": 1,
+      "ACK": 11,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "111.47.131.147",
+      "10.180.77.116",
+      443,
+      61837,
+      "TCP"
+    ],
+    "duration": 4.277,
+    "packet_count": 10,
+    "byte_count": 1838,
+    "avg_packet_size": 183.8,
+    "avg_inter_arrival": 0.475,
+    "flags": {
+      "SYN": 1,
+      "ACK": 10,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "109.244.239.32",
+      62110,
+      3478,
+      "UDP"
+    ],
+    "duration": 29.779,
+    "packet_count": 2,
+    "byte_count": 124,
+    "avg_packet_size": 62.0,
+    "avg_inter_arrival": 29.779,
+    "flags": {
+      "SYN": 0,
+      "ACK": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "109.244.239.32",
+      "10.180.77.116",
+      3478,
+      62110,
+      "UDP"
+    ],
+    "duration": 29.81,
+    "packet_count": 2,
+    "byte_count": 196,
+    "avg_packet_size": 98.0,
+    "avg_inter_arrival": 29.81,
+    "flags": {
+      "SYN": 0,
+      "ACK": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "20.243.74.193",
+      57218,
+      443,
+      "TCP"
+    ],
+    "duration": 14.999,
+    "packet_count": 2,
+    "byte_count": 175,
+    "avg_packet_size": 87.5,
+    "avg_inter_arrival": 14.999,
+    "flags": {
+      "SYN": 0,
+      "ACK": 2,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "20.243.74.193",
+      "10.180.77.116",
+      443,
+      57218,
+      "TCP"
+    ],
+    "duration": 14.969,
+    "packet_count": 3,
+    "byte_count": 239,
+    "avg_packet_size": 79.67,
+    "avg_inter_arrival": 7.485,
+    "flags": {
+      "SYN": 0,
+      "ACK": 3,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "180.97.248.210",
+      62155,
+      443,
+      "TCP"
+    ],
+    "duration": 0.145,
+    "packet_count": 10,
+    "byte_count": 6197,
+    "avg_packet_size": 619.7,
+    "avg_inter_arrival": 0.016,
+    "flags": {
+      "SYN": 1,
+      "ACK": 9,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "180.97.248.210",
+      "10.180.77.116",
+      443,
+      62155,
+      "TCP"
+    ],
+    "duration": 0.143,
+    "packet_count": 8,
+    "byte_count": 1841,
+    "avg_packet_size": 230.12,
+    "avg_inter_arrival": 0.02,
+    "flags": {
+      "SYN": 1,
+      "ACK": 7,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "112.90.95.59",
+      62232,
+      443,
+      "TCP"
+    ],
+    "duration": 5.322,
+    "packet_count": 33,
+    "byte_count": 30817,
+    "avg_packet_size": 933.85,
+    "avg_inter_arrival": 0.166,
+    "flags": {
+      "SYN": 1,
+      "ACK": 32,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "112.90.95.59",
+      "10.180.77.116",
+      443,
+      62232,
+      "TCP"
+    ],
+    "duration": 5.286,
+    "packet_count": 20,
+    "byte_count": 7138,
+    "avg_packet_size": 356.9,
+    "avg_inter_arrival": 0.278,
+    "flags": {
+      "SYN": 1,
+      "ACK": 20,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "180.97.248.210",
+      62441,
+      443,
+      "TCP"
+    ],
+    "duration": 0.0,
+    "packet_count": 1,
+    "byte_count": 66,
+    "avg_packet_size": 66.0,
+    "avg_inter_arrival": 0,
+    "flags": {
+      "SYN": 1,
+      "ACK": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "101.69.194.205",
+      62475,
+      443,
+      "TCP"
+    ],
+    "duration": 0.102,
+    "packet_count": 14,
+    "byte_count": 2192,
+    "avg_packet_size": 156.57,
+    "avg_inter_arrival": 0.008,
+    "flags": {
+      "SYN": 1,
+      "ACK": 13,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "101.69.194.205",
+      "10.180.77.116",
+      443,
+      62475,
+      "TCP"
+    ],
+    "duration": 0.095,
+    "packet_count": 25,
+    "byte_count": 18874,
+    "avg_packet_size": 754.96,
+    "avg_inter_arrival": 0.004,
+    "flags": {
+      "SYN": 1,
+      "ACK": 25,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "123.6.63.49",
+      60037,
+      443,
+      "TCP"
+    ],
+    "duration": 25.13,
+    "packet_count": 34,
+    "byte_count": 20415,
+    "avg_packet_size": 600.44,
+    "avg_inter_arrival": 0.762,
+    "flags": {
+      "SYN": 0,
+      "ACK": 34,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "123.6.63.49",
+      "10.180.77.116",
+      443,
+      60037,
+      "TCP"
+    ],
+    "duration": 25.064,
+    "packet_count": 30,
+    "byte_count": 8708,
+    "avg_packet_size": 290.27,
+    "avg_inter_arrival": 0.864,
+    "flags": {
+      "SYN": 0,
+      "ACK": 30,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "180.97.248.210",
+      62782,
+      443,
+      "TCP"
+    ],
+    "duration": 26.744,
+    "packet_count": 33,
+    "byte_count": 11418,
+    "avg_packet_size": 346.0,
+    "avg_inter_arrival": 0.836,
+    "flags": {
+      "SYN": 1,
+      "ACK": 32,
+      "FIN": 3
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "180.97.248.210",
+      62783,
+      443,
+      "TCP"
+    ],
+    "duration": 26.23,
+    "packet_count": 24,
+    "byte_count": 8060,
+    "avg_packet_size": 335.83,
+    "avg_inter_arrival": 1.14,
+    "flags": {
+      "SYN": 1,
+      "ACK": 23,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "180.97.248.210",
+      62784,
+      443,
+      "TCP"
+    ],
+    "duration": 16.134,
+    "packet_count": 15,
+    "byte_count": 3322,
+    "avg_packet_size": 221.47,
+    "avg_inter_arrival": 1.152,
+    "flags": {
+      "SYN": 1,
+      "ACK": 14,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "180.97.248.210",
+      "10.180.77.116",
+      443,
+      62783,
+      "TCP"
+    ],
+    "duration": 26.204,
+    "packet_count": 21,
+    "byte_count": 8971,
+    "avg_packet_size": 427.19,
+    "avg_inter_arrival": 1.31,
+    "flags": {
+      "SYN": 1,
+      "ACK": 21,
+      "FIN": 2
+    }
+  },
+  {
+    "flow_key": [
+      "180.97.248.210",
+      "10.180.77.116",
+      443,
+      62784,
+      "TCP"
+    ],
+    "duration": 16.107,
+    "packet_count": 16,
+    "byte_count": 6451,
+    "avg_packet_size": 403.19,
+    "avg_inter_arrival": 1.074,
+    "flags": {
+      "SYN": 1,
+      "ACK": 16,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "180.97.248.210",
+      "10.180.77.116",
+      443,
+      62782,
+      "TCP"
+    ],
+    "duration": 26.692,
+    "packet_count": 28,
+    "byte_count": 14965,
+    "avg_packet_size": 534.46,
+    "avg_inter_arrival": 0.989,
+    "flags": {
+      "SYN": 1,
+      "ACK": 28,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.220.191.114",
+      62821,
+      443,
+      "TCP"
+    ],
+    "duration": 4.181,
+    "packet_count": 8,
+    "byte_count": 3018,
+    "avg_packet_size": 377.25,
+    "avg_inter_arrival": 0.597,
+    "flags": {
+      "SYN": 1,
+      "ACK": 7,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.220.191.114",
+      "10.180.77.116",
+      443,
+      62821,
+      "TCP"
+    ],
+    "duration": 4.154,
+    "packet_count": 6,
+    "byte_count": 1512,
+    "avg_packet_size": 252.0,
+    "avg_inter_arrival": 0.831,
+    "flags": {
+      "SYN": 1,
+      "ACK": 6,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "112.90.95.59",
+      62828,
+      443,
+      "TCP"
+    ],
+    "duration": 5.297,
+    "packet_count": 15,
+    "byte_count": 6972,
+    "avg_packet_size": 464.8,
+    "avg_inter_arrival": 0.378,
+    "flags": {
+      "SYN": 1,
+      "ACK": 14,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "112.90.95.59",
+      "10.180.77.116",
+      443,
+      62828,
+      "TCP"
+    ],
+    "duration": 5.267,
+    "packet_count": 13,
+    "byte_count": 3318,
+    "avg_packet_size": 255.23,
+    "avg_inter_arrival": 0.439,
+    "flags": {
+      "SYN": 1,
+      "ACK": 13,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "180.97.248.210",
+      62872,
+      443,
+      "TCP"
+    ],
+    "duration": 0.417,
+    "packet_count": 21,
+    "byte_count": 19839,
+    "avg_packet_size": 944.71,
+    "avg_inter_arrival": 0.021,
+    "flags": {
+      "SYN": 1,
+      "ACK": 20,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.253.247.52",
+      62873,
+      443,
+      "TCP"
+    ],
+    "duration": 0.773,
+    "packet_count": 56,
+    "byte_count": 31201,
+    "avg_packet_size": 557.16,
+    "avg_inter_arrival": 0.014,
+    "flags": {
+      "SYN": 1,
+      "ACK": 55,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.253.247.52",
+      "10.180.77.116",
+      443,
+      62873,
+      "TCP"
+    ],
+    "duration": 0.771,
+    "packet_count": 73,
+    "byte_count": 24014,
+    "avg_packet_size": 328.96,
+    "avg_inter_arrival": 0.011,
+    "flags": {
+      "SYN": 1,
+      "ACK": 73,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "180.97.248.210",
+      "10.180.77.116",
+      443,
+      62872,
+      "TCP"
+    ],
+    "duration": 0.409,
+    "packet_count": 13,
+    "byte_count": 2141,
+    "avg_packet_size": 164.69,
+    "avg_inter_arrival": 0.034,
+    "flags": {
+      "SYN": 1,
+      "ACK": 12,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "180.97.248.210",
+      63124,
+      443,
+      "TCP"
+    ],
+    "duration": 0.459,
+    "packet_count": 20,
+    "byte_count": 17839,
+    "avg_packet_size": 891.95,
+    "avg_inter_arrival": 0.024,
+    "flags": {
+      "SYN": 1,
+      "ACK": 19,
+      "FIN": 2
+    }
+  },
+  {
+    "flow_key": [
+      "180.97.248.210",
+      "10.180.77.116",
+      443,
+      63124,
+      "TCP"
+    ],
+    "duration": 0.458,
+    "packet_count": 12,
+    "byte_count": 2093,
+    "avg_packet_size": 174.42,
+    "avg_inter_arrival": 0.042,
+    "flags": {
+      "SYN": 1,
+      "ACK": 11,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "123.206.4.34",
+      54695,
+      443,
+      "TCP"
+    ],
+    "duration": 0.0,
+    "packet_count": 1,
+    "byte_count": 55,
+    "avg_packet_size": 55.0,
+    "avg_inter_arrival": 0,
+    "flags": {
+      "SYN": 0,
+      "ACK": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "123.206.4.34",
+      "10.180.77.116",
+      443,
+      54695,
+      "TCP"
+    ],
+    "duration": 0.0,
+    "packet_count": 1,
+    "byte_count": 66,
+    "avg_packet_size": 66.0,
+    "avg_inter_arrival": 0,
+    "flags": {
+      "SYN": 0,
+      "ACK": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "116.207.181.200",
+      63278,
+      443,
+      "TCP"
+    ],
+    "duration": 4.301,
+    "packet_count": 15,
+    "byte_count": 11301,
+    "avg_packet_size": 753.4,
+    "avg_inter_arrival": 0.307,
+    "flags": {
+      "SYN": 1,
+      "ACK": 14,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "116.207.181.200",
+      "10.180.77.116",
+      443,
+      63278,
+      "TCP"
+    ],
+    "duration": 4.26,
+    "packet_count": 9,
+    "byte_count": 1695,
+    "avg_packet_size": 188.33,
+    "avg_inter_arrival": 0.532,
+    "flags": {
+      "SYN": 1,
+      "ACK": 9,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "123.206.4.34",
+      54669,
+      443,
+      "TCP"
+    ],
+    "duration": 0.0,
+    "packet_count": 1,
+    "byte_count": 55,
+    "avg_packet_size": 55.0,
+    "avg_inter_arrival": 0,
+    "flags": {
+      "SYN": 0,
+      "ACK": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "123.206.4.34",
+      "10.180.77.116",
+      443,
+      54669,
+      "TCP"
+    ],
+    "duration": 0.0,
+    "packet_count": 1,
+    "byte_count": 66,
+    "avg_packet_size": 66.0,
+    "avg_inter_arrival": 0,
+    "flags": {
+      "SYN": 0,
+      "ACK": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "180.97.248.210",
+      63406,
+      443,
+      "TCP"
+    ],
+    "duration": 0.0,
+    "packet_count": 1,
+    "byte_count": 66,
+    "avg_packet_size": 66.0,
+    "avg_inter_arrival": 0,
+    "flags": {
+      "SYN": 1,
+      "ACK": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "211.159.143.37",
+      54672,
+      443,
+      "TCP"
+    ],
+    "duration": 0.0,
+    "packet_count": 1,
+    "byte_count": 55,
+    "avg_packet_size": 55.0,
+    "avg_inter_arrival": 0,
+    "flags": {
+      "SYN": 0,
+      "ACK": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "211.159.143.37",
+      "10.180.77.116",
+      443,
+      54672,
+      "TCP"
+    ],
+    "duration": 0.0,
+    "packet_count": 1,
+    "byte_count": 66,
+    "avg_packet_size": 66.0,
+    "avg_inter_arrival": 0,
+    "flags": {
+      "SYN": 0,
+      "ACK": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "123.206.4.34",
+      54884,
+      443,
+      "TCP"
+    ],
+    "duration": 0.0,
+    "packet_count": 1,
+    "byte_count": 55,
+    "avg_packet_size": 55.0,
+    "avg_inter_arrival": 0,
+    "flags": {
+      "SYN": 0,
+      "ACK": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "123.206.4.34",
+      "10.180.77.116",
+      443,
+      54884,
+      "TCP"
+    ],
+    "duration": 0.0,
+    "packet_count": 1,
+    "byte_count": 66,
+    "avg_packet_size": 66.0,
+    "avg_inter_arrival": 0,
+    "flags": {
+      "SYN": 0,
+      "ACK": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "120.253.247.52",
+      63476,
+      443,
+      "TCP"
+    ],
+    "duration": 11.662,
+    "packet_count": 689,
+    "byte_count": 47160,
+    "avg_packet_size": 68.45,
+    "avg_inter_arrival": 0.017,
+    "flags": {
+      "SYN": 1,
+      "ACK": 688,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "120.253.247.52",
+      "10.180.77.116",
+      443,
+      63476,
+      "TCP"
+    ],
+    "duration": 11.66,
+    "packet_count": 2827,
+    "byte_count": 4009606,
+    "avg_packet_size": 1418.33,
+    "avg_inter_arrival": 0.004,
+    "flags": {
+      "SYN": 1,
+      "ACK": 2827,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "199.96.62.17",
+      63573,
+      443,
+      "TCP"
+    ],
+    "duration": 14.851,
+    "packet_count": 5,
+    "byte_count": 330,
+    "avg_packet_size": 66.0,
+    "avg_inter_arrival": 3.713,
+    "flags": {
+      "SYN": 5,
+      "ACK": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "140.207.63.176",
+      63918,
+      443,
+      "TCP"
+    ],
+    "duration": 0.094,
+    "packet_count": 9,
+    "byte_count": 1866,
+    "avg_packet_size": 207.33,
+    "avg_inter_arrival": 0.012,
+    "flags": {
+      "SYN": 1,
+      "ACK": 8,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "140.207.63.176",
+      "10.180.77.116",
+      443,
+      63918,
+      "TCP"
+    ],
+    "duration": 0.09,
+    "packet_count": 11,
+    "byte_count": 2328,
+    "avg_packet_size": 211.64,
+    "avg_inter_arrival": 0.009,
+    "flags": {
+      "SYN": 1,
+      "ACK": 11,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "112.90.95.59",
+      63921,
+      443,
+      "TCP"
+    ],
+    "duration": 5.226,
+    "packet_count": 12,
+    "byte_count": 3896,
+    "avg_packet_size": 324.67,
+    "avg_inter_arrival": 0.475,
+    "flags": {
+      "SYN": 1,
+      "ACK": 11,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "112.90.95.59",
+      "10.180.77.116",
+      443,
+      63921,
+      "TCP"
+    ],
+    "duration": 5.192,
+    "packet_count": 10,
+    "byte_count": 1997,
+    "avg_packet_size": 199.7,
+    "avg_inter_arrival": 0.577,
+    "flags": {
+      "SYN": 1,
+      "ACK": 10,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "180.97.248.210",
+      64020,
+      443,
+      "TCP"
+    ],
+    "duration": 0.0,
+    "packet_count": 1,
+    "byte_count": 66,
+    "avg_packet_size": 66.0,
+    "avg_inter_arrival": 0,
+    "flags": {
+      "SYN": 1,
+      "ACK": 0,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "180.97.248.210",
+      64062,
+      443,
+      "TCP"
+    ],
+    "duration": 0.204,
+    "packet_count": 11,
+    "byte_count": 7637,
+    "avg_packet_size": 694.27,
+    "avg_inter_arrival": 0.02,
+    "flags": {
+      "SYN": 1,
+      "ACK": 10,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "180.97.248.210",
+      "10.180.77.116",
+      443,
+      64062,
+      "TCP"
+    ],
+    "duration": 0.204,
+    "packet_count": 9,
+    "byte_count": 1939,
+    "avg_packet_size": 215.44,
+    "avg_inter_arrival": 0.025,
+    "flags": {
+      "SYN": 1,
+      "ACK": 8,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "4.207.247.137",
+      49408,
+      443,
+      "TCP"
+    ],
+    "duration": 0.0,
+    "packet_count": 1,
+    "byte_count": 55,
+    "avg_packet_size": 55.0,
+    "avg_inter_arrival": 0,
+    "flags": {
+      "SYN": 0,
+      "ACK": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "4.207.247.137",
+      "10.180.77.116",
+      443,
+      49408,
+      "TCP"
+    ],
+    "duration": 0.0,
+    "packet_count": 1,
+    "byte_count": 66,
+    "avg_packet_size": 66.0,
+    "avg_inter_arrival": 0,
+    "flags": {
+      "SYN": 0,
+      "ACK": 1,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "116.207.181.200",
+      64228,
+      443,
+      "TCP"
+    ],
+    "duration": 4.282,
+    "packet_count": 14,
+    "byte_count": 11483,
+    "avg_packet_size": 820.21,
+    "avg_inter_arrival": 0.329,
+    "flags": {
+      "SYN": 1,
+      "ACK": 13,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "116.207.181.200",
+      "10.180.77.116",
+      443,
+      64228,
+      "TCP"
+    ],
+    "duration": 4.249,
+    "packet_count": 9,
+    "byte_count": 1738,
+    "avg_packet_size": 193.11,
+    "avg_inter_arrival": 0.531,
+    "flags": {
+      "SYN": 1,
+      "ACK": 9,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "180.97.248.210",
+      64525,
+      443,
+      "TCP"
+    ],
+    "duration": 9.746,
+    "packet_count": 17,
+    "byte_count": 6656,
+    "avg_packet_size": 391.53,
+    "avg_inter_arrival": 0.609,
+    "flags": {
+      "SYN": 1,
+      "ACK": 16,
+      "FIN": 7
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "13.89.179.10",
+      64526,
+      443,
+      "TCP"
+    ],
+    "duration": 0.669,
+    "packet_count": 10,
+    "byte_count": 3796,
+    "avg_packet_size": 379.6,
+    "avg_inter_arrival": 0.074,
+    "flags": {
+      "SYN": 1,
+      "ACK": 9,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "180.97.248.210",
+      "10.180.77.116",
+      443,
+      64525,
+      "TCP"
+    ],
+    "duration": 0.165,
+    "packet_count": 10,
+    "byte_count": 1967,
+    "avg_packet_size": 196.7,
+    "avg_inter_arrival": 0.018,
+    "flags": {
+      "SYN": 1,
+      "ACK": 9,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "13.89.179.10",
+      "10.180.77.116",
+      443,
+      64526,
+      "TCP"
+    ],
+    "duration": 0.668,
+    "packet_count": 10,
+    "byte_count": 5763,
+    "avg_packet_size": 576.3,
+    "avg_inter_arrival": 0.074,
+    "flags": {
+      "SYN": 1,
+      "ACK": 10,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "116.207.181.200",
+      64707,
+      443,
+      "TCP"
+    ],
+    "duration": 4.292,
+    "packet_count": 10,
+    "byte_count": 6371,
+    "avg_packet_size": 637.1,
+    "avg_inter_arrival": 0.477,
+    "flags": {
+      "SYN": 1,
+      "ACK": 9,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "116.207.181.200",
+      "10.180.77.116",
+      443,
+      64707,
+      "TCP"
+    ],
+    "duration": 4.254,
+    "packet_count": 7,
+    "byte_count": 1575,
+    "avg_packet_size": 225.0,
+    "avg_inter_arrival": 0.709,
+    "flags": {
+      "SYN": 1,
+      "ACK": 7,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "180.97.248.210",
+      65020,
+      443,
+      "TCP"
+    ],
+    "duration": 0.703,
+    "packet_count": 12,
+    "byte_count": 6355,
+    "avg_packet_size": 529.58,
+    "avg_inter_arrival": 0.064,
+    "flags": {
+      "SYN": 1,
+      "ACK": 11,
+      "FIN": 3
+    }
+  },
+  {
+    "flow_key": [
+      "180.97.248.210",
+      "10.180.77.116",
+      443,
+      65020,
+      "TCP"
+    ],
+    "duration": 0.702,
+    "packet_count": 9,
+    "byte_count": 1901,
+    "avg_packet_size": 211.22,
+    "avg_inter_arrival": 0.088,
+    "flags": {
+      "SYN": 1,
+      "ACK": 8,
+      "FIN": 1
+    }
+  },
+  {
+    "flow_key": [
+      "10.180.77.116",
+      "180.97.248.210",
+      65420,
+      443,
+      "TCP"
+    ],
+    "duration": 0.178,
+    "packet_count": 13,
+    "byte_count": 13479,
+    "avg_packet_size": 1036.85,
+    "avg_inter_arrival": 0.015,
+    "flags": {
+      "SYN": 1,
+      "ACK": 12,
+      "FIN": 0
+    }
+  },
+  {
+    "flow_key": [
+      "180.97.248.210",
+      "10.180.77.116",
+      443,
+      65420,
+      "TCP"
+    ],
+    "duration": 0.101,
+    "packet_count": 10,
+    "byte_count": 1948,
+    "avg_packet_size": 194.8,
+    "avg_inter_arrival": 0.011,
+    "flags": {
+      "SYN": 1,
+      "ACK": 10,
+      "FIN": 0
+    }
+  }
+]
